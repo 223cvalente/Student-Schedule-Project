@@ -1,37 +1,49 @@
-{
-    "schedule": 
+
         {
             "class_name": "Math",
             "teacher_name": "Mr. Smith",
             "room_number": "101",
             "days": ["Monday", "Wednesday", "Friday"]
         },
-    }
     {
-        "schedule": 
-            {
-                "class_name": "Math",
-                "teacher_name": "Mr. Smith",
-                "room_number": "101",
-                "days": ["Monday", "Wednesday", "Friday"]
-            },
-        }
-        {
-            "schedule": 
-                {
-                    "class_name": "Math",
-                    "teacher_name": "Mr. Smith",
-                    "room_number": "101",
-                    "days": ["Monday", "Wednesday", "Friday"]
-                },
-            }
-            { 
-                "schedule": 
-                    {
-                        "class_name": "Math",
-                        "teacher_name": "Mr. Smith",
-                        "room_number": "101",
-                        "days": ["Monday", "Wednesday", "Friday"]
-                    }
-                }
+        "class_name": "Math",
+        "teacher_name": "Mr. Smith",
+        "room_number": "101",
+        "days": ["Monday", "Wednesday", "Friday"]
+    },
+
+    {
+        "class_name": "Math",
+        "teacher_name": "Mr. Smith",
+        "room_number": "101",
+        "days": ["Monday", "Wednesday", "Friday"]
+    },
+
+    {
+        "class_name": "Math",
+        "teacher_name": "Mr. Smith",
+        "room_number": "101",
+        "days": ["Monday", "Wednesday", "Friday"]
+    },
+
+    {
+        "class_name": "Math",
+        "teacher_name": "Mr. Smith",
+        "room_number": "101",
+        "days": ["Monday", "Wednesday", "Friday"]
+    },
+
+    {
+        "class_name": "Math",
+        "teacher_name": "Mr. Smith",
+        "room_number": "101",
+        "days": ["Monday", "Wednesday", "Friday"]
+    },
+
+    {
+        "class_name": "Math",
+        "teacher_name": "Mr. Smith",
+        "room_number": "101",
+        "days": ["Monday", "Wednesday", "Friday"]
+    }
 
