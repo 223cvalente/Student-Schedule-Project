@@ -1,49 +1,49 @@
 
         {
             "class_name": "Math",
-            "teacher_name": "Mr. Smith",
-            "room_number": "101",
-            "days": ["Monday", "Wednesday", "Friday"]
+            "teacher_name": "Ms. Pandolfo",
+            "room_number": "D213",
+            "days": ["Tuesday", "Wednesday", "Friday"]
         },
     {
-        "class_name": "Math",
-        "teacher_name": "Mr. Smith",
-        "room_number": "101",
-        "days": ["Monday", "Wednesday", "Friday"]
+        "class_name": "English",
+        "teacher_name": "Ms. Lomvosky ",
+        "room_number": "E107",
+        "days": ["Tuesday", "Wednesday", "Thursday"]
     },
 
     {
-        "class_name": "Math",
-        "teacher_name": "Mr. Smith",
-        "room_number": "101",
-        "days": ["Monday", "Wednesday", "Friday"]
+        "class_name": "Physical Ed",
+        "teacher_name": "Mr. Migs",
+        "room_number": "Gym",
+        "days": ["Monday", "Tuesday", "Thursday", "Friday"]
     },
 
     {
-        "class_name": "Math",
-        "teacher_name": "Mr. Smith",
-        "room_number": "101",
-        "days": ["Monday", "Wednesday", "Friday"]
+        "class_name": "Applied Art",
+        "teacher_name": "Ms. Boyle",
+        "room_number": "A102",
+        "days": ["Monday", "Tuesday", "Thursday", "Friday"]
     },
 
     {
-        "class_name": "Math",
-        "teacher_name": "Mr. Smith",
-        "room_number": "101",
-        "days": ["Monday", "Wednesday", "Friday"]
+        "class_name": "Honors Web Design",
+        "teacher_name": "Ms. Herbert",
+        "room_number": "B114",
+        "days": ["Monday", "Wednesday", "Thursday", "Friday"]
     },
 
     {
-        "class_name": "Math",
-        "teacher_name": "Mr. Smith",
-        "room_number": "101",
-        "days": ["Monday", "Wednesday", "Friday"]
+        "class_name": "Digital Media",
+        "teacher_name": "Ms. Bott",
+        "room_number": "B108",
+        "days": ["Monday","Tuesday", "Wednesday", "Friday"]
     },
 
     {
-        "class_name": "Math",
-        "teacher_name": "Mr. Smith",
-        "room_number": "101",
-        "days": ["Monday", "Wednesday", "Friday"]
+        "class_name": "Lab Forensic Science",
+        "teacher_name": "Ms. Nolan",
+        "room_number": "E208",
+        "days": ["Monday", "Wednesday",  "Thursday", "Friday"]
     }
 

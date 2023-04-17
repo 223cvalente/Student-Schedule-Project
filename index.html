@@ -24,17 +24,17 @@
         <div class = "col-3">
         </div>
           <div class="col-6">
-                  <p class ="Let">A</p>
-                  <p class="Let">B</p>
-                    <p class="Let">C</p>
-                  <p class="Let">D</p>
-                  <p class="Let">E</p>
-                  <p class="Let">F</p>
-                  <p class="Let">G</p>
+                  <p class ="Let" @click="toggleA">A</p>
+                  <p class="Let" @click="toggleB">B</p>
+                  <p class="Let" @click="toggleC">C</p>
+                  <p class="Let" @click="toggleD">D</p>
+                  <p class="Let" @click="toggleE">E</p>
+                  <p class="Let" @click="toggleF">F</p>
+                  <p class="Let" @click="toggleG">G</p>
         
         </div>
                     <div class = "col-3">
-
+              
 
               </div>
      </div>
@@ -47,16 +47,38 @@
 
 <tr>
 
-    <th> Class Name </th>
+        <th> Class Name </th>
     <th> Teacher Name </th>
-    <th>  Room Number </th>
+       <th>  Room Number </th>
     <th> Days  </th>
 
 </tr>
+<tr v-for="(schedule, index) in schedules">
+      <td v-if="schedules[index].isActive">
+   {{schedules[index].class_name}}
+  </td>
+               <td v-if="schedules[index].isActive">
+    {{schedules[index].teacher_name}}
+  </td>
+         <td v-if="schedules[index].isActive">
+    {{schedules[index].room_number}}
+  </td>
+           <td v-if="schedules[index].isActive">
+    {{schedules[index].days}}
+  </td>
+
+</tr>
+</table>
+
+</div>
+
+                          <div class = "col-3">
+  
+</div>
+</div>
 
 
-
-  </table>
+                    <script type = "text/javascript" src="schedule.js"></script>
 
 </div>
 
